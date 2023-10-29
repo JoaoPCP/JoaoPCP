@@ -1,5 +1,4 @@
-### Hi there 👋
-# Olá Pessoal! :vulcan_salute:
+# Olá Pessoal!👋
 Me chamo João Paulo Cardoso da Paixão, sou desenvolvedor Full Stack, Graduando em Ciências da Computação na Universidade Federal da Bahia 
 
 
