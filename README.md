@@ -5,7 +5,7 @@ Me chamo João Paulo Cardoso da Paixão, sou desenvolvedor Full Stack
 
 ## :point_right: Para me encontrar:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-paulo-cardoso-da-paixão/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-paulo-cardoso-da-paixão/)
 <a href="mailto:joaopcp23@gmail.com">
 </a>
 
